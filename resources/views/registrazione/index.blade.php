@@ -22,7 +22,7 @@
             <div class="{{ $selectors['col'] }}4">
                 <div class="{{ $selectors['row'] }}">
                     <h5 id="subtitle">
-                        Ottieni il massimo dalla tua vita professionale
+                        get the most out of your professional life
                     </h5>
                 </div>
             </div>
